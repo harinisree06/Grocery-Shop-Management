@@ -1,0 +1,24 @@
+{
+    "feedback": [
+      {
+        "id": "1",
+        "name": "John Doe",
+        "email": "johndoe@example.com",
+        "feedback": "Great application! Very user-friendly."
+      },
+      {
+        "id": "2",
+        "name": "Jane Smith",
+        "email": "janesmith@example.com",
+        "feedback": "I found a few bugs, but overall it’s good."
+      },
+      {
+        "id": "e5d4",
+        "name": "THIRISHA R",
+        "email": "727723eucs260@skcet.ac.in",
+        "feedback": "hello"
+      }
+    ]
+  }
+  
+  
